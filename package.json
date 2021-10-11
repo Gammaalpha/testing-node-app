@@ -11,7 +11,7 @@
     "nodemon": "nodemon src/app.ts",
     "nodemonjs": "nodemon src/app.js",
     "debug": "nodemon --inspect ./src/app.ts",
-    "test": "jest"
+    "test": "jest --watchAll --verbose"
   },
   "keywords": [],
   "author": "",
