@@ -1,11 +1,8 @@
+import sumIndexTarget from "./subsetSum";
 
 function testFunc() {
 
-    const temp = [1, 2, 3]
-    const res = temp.filter(i => i > 2)
-    console.log(res);
-
-
+    const result = sumIndexTarget([0, 1, 2, 3], 1)
 }
 
 testFunc()
