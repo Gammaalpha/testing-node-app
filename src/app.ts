@@ -2,7 +2,8 @@ import sumIndexTarget from "./subsetSum";
 
 function testFunc() {
 
-    const result = sumIndexTarget([0, 1, 2, 3], 1)
+    const result = sumIndexTarget([3, 2, 7, 1], 6)
+
 }
 
 testFunc()
