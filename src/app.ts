@@ -1,5 +1,6 @@
 function testFunc() {
 
+console.log("derp");
 
 }
 
